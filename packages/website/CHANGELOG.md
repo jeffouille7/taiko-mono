@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.17.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.16.0...website-v0.17.0) (2023-09-27)
+
+
+### Features
+
+* **website:** add `ZK Nodes` to prover fee market ([#14817](https://github.com/taikoxyz/taiko-mono/issues/14817)) ([7c28677](https://github.com/taikoxyz/taiko-mono/commit/7c286774a56a1cd91c474b513a2ba00fbe3a4715))
+* **website:** add Alphamint and Xverse to ecosystem ([#14807](https://github.com/taikoxyz/taiko-mono/issues/14807)) ([0ea2e42](https://github.com/taikoxyz/taiko-mono/commit/0ea2e422d747871719ffbff39def01c5310b294f))
+* **website:** add gourds to ecosystem ([#14818](https://github.com/taikoxyz/taiko-mono/issues/14818)) ([48a911e](https://github.com/taikoxyz/taiko-mono/commit/48a911ee627cab054f1594eed110ae17e45203e3))
+* **website:** add izar and omnisea to ecosystem page ([#14825](https://github.com/taikoxyz/taiko-mono/issues/14825)) ([ad26ebe](https://github.com/taikoxyz/taiko-mono/commit/ad26ebe8564535a94a343596dd4a6faac6c65946))
+* **website:** add proof market video ([#14824](https://github.com/taikoxyz/taiko-mono/issues/14824)) ([4f57c75](https://github.com/taikoxyz/taiko-mono/commit/4f57c75b7faf12f2353c8b11f417e83d85ed4594))
+* **website:** add uniswap v3 addresses ([#14804](https://github.com/taikoxyz/taiko-mono/issues/14804)) ([ce83fba](https://github.com/taikoxyz/taiko-mono/commit/ce83fba51ed21e0a63eb99b65d502b5552597728))
+* **website:** Improve behavior on adding chains and tokens ([#14781](https://github.com/taikoxyz/taiko-mono/issues/14781)) ([fa59e09](https://github.com/taikoxyz/taiko-mono/commit/fa59e092de6114f586f6b8104aae718c61ff01cf))
+* **website:** update enable-a-prover to address common friction point ([#14787](https://github.com/taikoxyz/taiko-mono/issues/14787)) ([0de615b](https://github.com/taikoxyz/taiko-mono/commit/0de615ba70cb4a3d54359960020ee9bc39215f0e))
+
+
+### Bug Fixes
+
+* **website:** remove duplicate and miswording on run a taiko node docs ([#14791](https://github.com/taikoxyz/taiko-mono/issues/14791)) ([9cc10ba](https://github.com/taikoxyz/taiko-mono/commit/9cc10ba6872f744f0c76c64c4bf1120d9199a1a6))
+
 ## [0.16.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.15.0...website-v0.16.0) (2023-09-25)
 
 
